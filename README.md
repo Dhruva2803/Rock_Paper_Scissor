@@ -12,4 +12,4 @@ A Rock-Paper-Scissors game using HTML, CSS, and JavaScript where users play agai
 |data 1| data2|
 |data 3|data 4|
 
-
+![alt_name](url)
